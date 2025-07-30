@@ -1,0 +1,3 @@
+3x4 (no. of rows x no. of columns)
+pandas also have functionality for plot visulaization from matplotlib.
+Generators are memory efficient because they generate values one at a time on the fly, instead of storing all values in memory at once like lists or other data structures.
